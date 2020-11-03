@@ -1,0 +1,6 @@
+Ali_ShangHai_Da ansible_ssh_port=22 ansible_ssh_host=101.132.111.165 ansible_ssh_user=root
+Ali_ShangHai_88 ansible_ssh_port=22 ansible_ssh_host=47.102.197.127 ansible_ssh_user=root
+[backend]
+Ali_ShangHai_Da
+[frontend]
+Ali_ShangHai_88
